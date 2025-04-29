@@ -15,6 +15,7 @@ This repository showcases my journey in learning and applying C++ programming th
 Below are the links to individual projects (will be updated as projects are added):
 
 - [BuscarCPP](/BuscarCPP/BuscarCPP.cpp)
+- [FileOrganizer](/FileOrganizer/FileOrganizer.cpp)
 
 
 ## 📌 Notes
